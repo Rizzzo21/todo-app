@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A modern to-do list application with local storage functionality",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "todo",
+    "todo-list",
+    "task-manager",
+    "local-storage",
+    "javascript"
+  ],
+  "author": "Rizzzo21",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rizzzo21/todo-app"
+  }
+}
